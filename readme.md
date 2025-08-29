@@ -7,6 +7,6 @@ tsc // compilar typescript
 node main.js // rodar projeto
 
 ABSTRAÇÃO: video, playlist e player
-ENCAPSULAMENTO: atributos views, videos, state, history, get e set
-HERANÇA: advideo, livestream e video
-POLIMORFISMO: metodo play, info e pause
+ENCAPSULAMENTO: atributos views, videos, state, history, get e set.
+HERANÇA: advideo, livestream e video.
+POLIMORFISMO: metodo play, info e pause.
